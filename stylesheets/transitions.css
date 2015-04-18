@@ -1,0 +1,9 @@
+.container {
+	transition-duration: 1s;
+}
+
+.container:hover {
+	background-color: #FAFAFA;
+	border-radius: 10px;
+	padding: 10px;
+}
