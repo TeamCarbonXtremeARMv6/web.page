@@ -1,9 +1,13 @@
 .container {
-	transition-duration: 1s;
+	transition-duration: 0.5s;
 }
 
 .container:hover {
 	background-color: #FAFAFA;
-	border-radius: 10px;
+	border-radius: 5px;
 	padding: 10px;
+}
+
+.header-shadow {
+	box-shadow: 0px 2px 2px #000;
 }
